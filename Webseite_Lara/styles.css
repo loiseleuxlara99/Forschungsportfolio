@@ -1,0 +1,4 @@
+/* make main content wider */
+.page-columns .content {
+  max-width: 1200px !important;
+}

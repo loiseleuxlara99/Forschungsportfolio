@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Lara-Marie Loiseleux"
+  navbar:
+    left:
+      - href: About_me.qmd
+        text: About
+      - href: Projects.qmd
+        text: Projects
+      - href: CV.qmd
+        text: CV & Contact
+      - text: Blog
+        href: blog.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+   
+

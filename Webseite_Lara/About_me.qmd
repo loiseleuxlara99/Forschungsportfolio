@@ -1,0 +1,38 @@
+---
+title: "About"
+---
+
+# Lara-Marie Loiseleux
+
+
+![](images/profile.jpeg){style="float:left; width:190px; margin: 6px 26px 12px 0; border-radius:14px;"}
+
+**Master’s Student | Empirical Educational Research & Educational Psychology**  
+University of Tübingen (Expected graduation: October 2026)
+
+My focus is on the conceptualization, measurement, and causal interpretation of non-cognitive competencies in educational contexts, with a particular emphasis on socio-emotional and self-regulatory skills. 
+I have worked with quantitative and qualitative approaches, including longitudinal measurement models, secondary analyses of randomized interventions.
+
+My methodological focus lies in quantitative research designs and psychometric approaches.
+
+
+<div style="clear: both;"></div>
+
+
+---
+
+## Research Interest
+
+While socio-emotional and self-regulatory skills are key to educational success, their measurement often faces a 'validity gap.' I am interested in closing this gap by investigating whether we are measuring stable traits or malleable skills—and how we can design interventions that lead to robust, causally interpretable improvements.
+
+
+
+## Methodological Orientation
+
+
+Across projects, I am interested in aligning substantive research questions with appropriate measurement strategies and analytic approaches, and in reflecting on the assumptions underlying causal interpretation in applied educational research.
+
+## Academic Direction
+
+I aim to pursue a PhD where I can contribute to making 'non-cognitive' growth measurable and actionable. My goal is to move from 'black-box' interventions to a precise understanding of what works for whom and why.
+

@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Master’s Thesis — The Nature of Socio-Emotional Competencies (Ongoing)\n\n\nTitle: Zur Natur sozioemotionaler Kompetenzen: Eine Konstruktvalidierung der Trennbarkeit von Skills und Traits über Struktur, Stabilität und Messartefakte.\n\n\nCore Question: Do socio-emotional skills represent a distinct, malleable construct (“I can”), or are they merely a “re-labeling” of stable personality traits (“I am”)?\n\n\nApproach: Using a construct-validation approach, I investigate the empirical distinctness of skills (measured via BESSI-G) and traits (Big Five). The project addresses the “trait-re-labeling” debate by analyzing structural overlap and differential stability.\n\n\nMethodological Highlights:\n\n\n\nExploratory Structural Equation Modeling (ESEM): To account for the complex factor structure of social-behavioral skills.\n\n\nLongitudinal Modeling: Assessing rank-order stability over a school year using latent autoregressive models (TOSCA-NEO sample).\n\n\nMeasurement Invariance: Testing the stability of the measurement model across time.\n\n\nTools: R (lavaan), Mplus, Quarto for reproducible reporting, FIML for attrition handling.\n\n\n\n\n\nResearch Project — Metacognitive Indicators in Mathematics Classrooms\n\n\nTopic: Predicting high-inference teaching quality ratings through linguistic indicators of metacognition.\n\n\nContent: Using a metacognitive framework for mathematical learning (e.g., Zepeda), we investigated how specific linguistic markers in classroom transcripts relate to expert observer ratings of teaching quality. The project explores whether automated linguistic analysis can reflect the “invisible” metacognitive modeling provided by teachers.\n\n\nKey Contribution: Bridging the gap between theory-driven metacognitive frameworks and applied classroom diagnostics. It highlights the potential of linguistic cues as objective proxies for complex instructional processes in mathematics.\n\n\nMethods:\n\n\nMapping linguistic indicators to dimensions of teaching quality.\n\n\nPredictive modeling of observer ratings based on transcript data.\n\n\nReflection on domain-specific (math) vs. domain-general metacognitive cues."
+  },
+  {
+    "objectID": "Projects.html#research-projects",
+    "href": "Projects.html#research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Master’s Thesis (ongoing) — Conceptual & Psychometric Foundations of Socio-Emotional Skills (BESSI)\n\n\nTopic: Psychometric validation of a short-form instrument to assess socio-emotional skills in adolescents.\n\n\nContent: In my master’s thesis, I investigate the conceptual and psychometric foundations of socio-emotional skills measurement, focusing on the distinction between skills (“I can”) and personality traits (“I am”). The project examines whether high correlations reflect substantive overlap or near-synonymous item wording.\n\n\nMethods:\n\n\n\nLarge longitudinal sample of upper secondary students\n\n\nExploratory Structural Equation Modeling (ESEM)\n\n\nLongitudinal measurement invariance testing\n\n\nLatent stability models\n\n\nR (lavaan), FIML for missing data\n\n\n\n\n\nSecondary Analysis — ITT & CACE effects in a digital socio-emotional intervention\n\n\nTopic: Compliance-sensitive causal effects in a digital socio-emotional intervention for preschool children.\n\n\nContent: Secondary analysis of a randomized controlled trial. Beyond intention-to-treat (ITT), I applied Complier Average Causal Effect (CACE) models to examine how intervention effects depend on actual usage (compliance).\n\n\nMethods:\n\n\n\nSecondary analysis of an RCT\n\n\nITT vs. CACE comparison\n\n\nFIML for missing data\n\n\nSensitivity and tipping-point analyses\n\n\n\nKey contribution: ITT effects were small/absent, while CACE estimates suggested stronger effects among high-compliance participants and highlighted threats to causal interpretation when design assumptions are weak.\n\n\n\n\nExperimental Study — Epistemic emotions and information-seeking\n\n\nTopic: Epistemic emotions, misinformation, and exploratory information-seeking.\n\n\nContent: In an online experiment, we tested whether stylistic framings of refutation texts induce epistemic emotions (confusion vs. situational interest) and influence exploratory information-seeking behaviour and comprehension.\n\n\nMethods:\n\n\n\nOnline experiment (between-subjects)\n\n\nManipulation via text design\n\n\nBehavioural measure (click behaviour)\n\n\nRegression models, ANOVA, robustness checks\n\n\n\nKey contribution: No clear condition differences, but the study provides a methodological analysis of limits in emotion induction and click-based proxies.\n\n\n\n\nBachelor’s Thesis — Mediation model of mindfulness, decentering, and emotional competence\n\n\nTopic: Do decentering and emotional competence mediate the relationship between mindfulness and well-being?\n\n\nContent: In my bachelor’s thesis, I examined whether the relationship between mindfulness and well-being can be explained by underlying mechanisms, specifically decentering and emotional competence. Using cross-sectional survey data, I tested a mediation model to explore potential indirect pathways.\n\n\nMethods:\n\n\n\nOnline survey study (N = 190)\n\n\nMediation analysis using PROCESS (Hayes)\n\n\nBootstrapping (5,000 iterations)\n\n\nPath analysis (SPSS AMOS)\n\n\nA priori power analysis\n\n\n\nKey contribution: While causal interpretation was limited due to the correlational design, the project introduced a mechanistic perspective on socio-emotional competencies and highlighted the need for experimental and compliance-sensitive approaches in subsequent work."
+  },
+  {
+    "objectID": "Posts/Erster Post/Index.html",
+    "href": "Posts/Erster Post/Index.html",
+    "title": "Likertitems als metrisch oder ordinalskaliert betrachten?",
+    "section": "",
+    "text": "Problem:\nSchätzung mit Weighted Least Squares Mean and Variance adjustedund in Sewell et al. (2024) |\nVergleich mit Maximum Likelihood (ML) Schätzung, wenn die Faktorladungen relativ gleichbleiben/ Standardfehler nicht zu sehr voneinander abweichen –&gt; weiterrechnen mit ML für weitere Analysen."
+  },
+  {
+    "objectID": "Posts/Erster Post/Index.html#replikation-bessi-g-45-items-sewell-et-al.-2024",
+    "href": "Posts/Erster Post/Index.html#replikation-bessi-g-45-items-sewell-et-al.-2024",
+    "title": "Likertitems als metrisch oder ordinalskaliert betrachten?",
+    "section": "",
+    "text": "Problem:\nSchätzung mit Weighted Least Squares Mean and Variance adjustedund in Sewell et al. (2024) |\nVergleich mit Maximum Likelihood (ML) Schätzung, wenn die Faktorladungen relativ gleichbleiben/ Standardfehler nicht zu sehr voneinander abweichen –&gt; weiterrechnen mit ML für weitere Analysen."
+  },
+  {
+    "objectID": "Posts/Erster Post/Index.html#wie-groß-wird-wohl-die-differenz-zwischen-den-standardfehlern-der-unterschiedlich-geschätzten-modelle-wsmlv-vs.-ml",
+    "href": "Posts/Erster Post/Index.html#wie-groß-wird-wohl-die-differenz-zwischen-den-standardfehlern-der-unterschiedlich-geschätzten-modelle-wsmlv-vs.-ml",
+    "title": "Likertitems als metrisch oder ordinalskaliert betrachten?",
+    "section": "Wie groß wird wohl die differenz zwischen den Standardfehlern der unterschiedlich geschätzten Modelle (WSMLV vs. ML)",
+    "text": "Wie groß wird wohl die differenz zwischen den Standardfehlern der unterschiedlich geschätzten Modelle (WSMLV vs. ML)"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV & Contact",
+    "section": "",
+    "text": "You can view my current academic CV below.\nA downloadable PDF version is available for offline use."
+  },
+  {
+    "objectID": "CV.html#curriculum-vitae",
+    "href": "CV.html#curriculum-vitae",
+    "title": "CV & Contact",
+    "section": "",
+    "text": "You can view my current academic CV below.\nA downloadable PDF version is available for offline use."
+  },
+  {
+    "objectID": "CV.html#contact",
+    "href": "CV.html#contact",
+    "title": "CV & Contact",
+    "section": "Contact",
+    "text": "Contact\n LinkedIn Profile \n\n Download CV (PDF)"
+  },
+  {
+    "objectID": "About_me.html",
+    "href": "About_me.html",
+    "title": "About",
+    "section": "",
+    "text": "Master’s Student | Empirical Educational Research & Educational Psychology\nUniversity of Tübingen (Expected graduation: October 2026)\nMy focus is on the conceptualization, measurement, and causal interpretation of non-cognitive competencies in educational contexts, with a particular emphasis on socio-emotional and self-regulatory skills. I have worked with quantitative and qualitative approaches, including longitudinal measurement models, secondary analyses of randomized interventions.\nMy methodological focus lies in quantitative research designs and psychometric approaches.\n\n\n\n\n\n\nWhile socio-emotional and self-regulatory skills are key to educational success, their measurement often faces a ‘validity gap.’ I am interested in closing this gap by investigating whether we are measuring stable traits or malleable skills—and how we can design interventions that lead to robust, causally interpretable improvements.\n\n\n\nAcross projects, I am interested in aligning substantive research questions with appropriate measurement strategies and analytic approaches, and in reflecting on the assumptions underlying causal interpretation in applied educational research.\n\n\n\nI aim to pursue a PhD where I can contribute to making ‘non-cognitive’ growth measurable and actionable. My goal is to move from ‘black-box’ interventions to a precise understanding of what works for whom and why."
+  },
+  {
+    "objectID": "About_me.html#research-interest",
+    "href": "About_me.html#research-interest",
+    "title": "About",
+    "section": "",
+    "text": "While socio-emotional and self-regulatory skills are key to educational success, their measurement often faces a ‘validity gap.’ I am interested in closing this gap by investigating whether we are measuring stable traits or malleable skills—and how we can design interventions that lead to robust, causally interpretable improvements."
+  },
+  {
+    "objectID": "About_me.html#methodological-orientation",
+    "href": "About_me.html#methodological-orientation",
+    "title": "About",
+    "section": "",
+    "text": "Across projects, I am interested in aligning substantive research questions with appropriate measurement strategies and analytic approaches, and in reflecting on the assumptions underlying causal interpretation in applied educational research."
+  },
+  {
+    "objectID": "About_me.html#academic-direction",
+    "href": "About_me.html#academic-direction",
+    "title": "About",
+    "section": "",
+    "text": "I aim to pursue a PhD where I can contribute to making ‘non-cognitive’ growth measurable and actionable. My goal is to move from ‘black-box’ interventions to a precise understanding of what works for whom and why."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Willkommen in meinem Blog! Hier findest du alle meine Beiträge.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLikertitems als metrisch oder ordinalskaliert betrachten?\n\n\n\nMasterarbeit\n\nPsychometrie\n\n\n\n\n\n\n\n\n\nFeb 15, 2026\n\n\nLara Loiseleux\n\n\n\n\n\n\n\n\n\n\n\n\nMein erster Blogpost\n\n\n\nQuarto\n\nStudium\n\n\n\nIch teste meinen ersten Blogpost mit Quarto.\n\n\n\n\n\nFeb 10, 2026\n\n\nLara Loiseleux\n\n\n\n\n\n\n\n\n\n\n\n\nzweiter Post\n\n\n\nQuarto\n\nStudium\n\n\n\nTest\n\n\n\n\n\nJan 10, 2026\n\n\nLara Loiseleux\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Posts/dritten Post/Index.html",
+    "href": "Posts/dritten Post/Index.html",
+    "title": "zweiter Post",
+    "section": "",
+    "text": "set.seed(1) x &lt;- rnorm(100) mean(x)"
+  },
+  {
+    "objectID": "Posts/dritten Post/Index.html#r-code",
+    "href": "Posts/dritten Post/Index.html#r-code",
+    "title": "zweiter Post",
+    "section": "",
+    "text": "set.seed(1) x &lt;- rnorm(100) mean(x)"
+  },
+  {
+    "objectID": "Posts/zweiter Post/Index.html",
+    "href": "Posts/zweiter Post/Index.html",
+    "title": "Mein erster Blogpost",
+    "section": "",
+    "text": "Das ist mein erster Blogpost."
+  },
+  {
+    "objectID": "Posts/zweiter Post/Index.html#einleitung",
+    "href": "Posts/zweiter Post/Index.html#einleitung",
+    "title": "Mein erster Blogpost",
+    "section": "",
+    "text": "Das ist mein erster Blogpost."
+  },
+  {
+    "objectID": "Projects.html#current-research",
+    "href": "Projects.html#current-research",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Master’s Thesis — The Nature of Socio-Emotional Competencies (Ongoing)\n\n\nTitle: Zur Natur sozioemotionaler Kompetenzen: Eine Konstruktvalidierung der Trennbarkeit von Skills und Traits über Struktur, Stabilität und Messartefakte.\n\n\nCore Question: Do socio-emotional skills represent a distinct, malleable construct (“I can”), or are they merely a “re-labeling” of stable personality traits (“I am”)?\n\n\nApproach: Using a construct-validation approach, I investigate the empirical distinctness of skills (measured via BESSI-G) and traits (Big Five). The project addresses the “trait-re-labeling” debate by analyzing structural overlap and differential stability.\n\n\nMethodological Highlights:\n\n\n\nExploratory Structural Equation Modeling (ESEM): To account for the complex factor structure of social-behavioral skills.\n\n\nLongitudinal Modeling: Assessing rank-order stability over a school year using latent autoregressive models (TOSCA-NEO sample).\n\n\nMeasurement Invariance: Testing the stability of the measurement model across time.\n\n\nTools: R (lavaan), Mplus, Quarto for reproducible reporting, FIML for attrition handling.\n\n\n\n\n\nResearch Project — Metacognitive Indicators in Mathematics Classrooms\n\n\nTopic: Predicting high-inference teaching quality ratings through linguistic indicators of metacognition.\n\n\nContent: Using a metacognitive framework for mathematical learning (e.g., Zepeda), we investigated how specific linguistic markers in classroom transcripts relate to expert observer ratings of teaching quality. The project explores whether automated linguistic analysis can reflect the “invisible” metacognitive modeling provided by teachers.\n\n\nKey Contribution: Bridging the gap between theory-driven metacognitive frameworks and applied classroom diagnostics. It highlights the potential of linguistic cues as objective proxies for complex instructional processes in mathematics.\n\n\nMethods:\n\n\nMapping linguistic indicators to dimensions of teaching quality.\n\n\nPredictive modeling of observer ratings based on transcript data.\n\n\nReflection on domain-specific (math) vs. domain-general metacognitive cues."
+  },
+  {
+    "objectID": "Projects.html#completed-projects",
+    "href": "Projects.html#completed-projects",
+    "title": "Research Projects",
+    "section": "Completed Projects",
+    "text": "Completed Projects\n\n\nCausal Evaluation — ITT & CACE Effects in Digital Interventions\n\n\nProject: Secondary analysis of a Randomized Controlled Trial (RCT) evaluating the digital empathy-training “Zirkus Empathico”.\n\n\nFocus: Moving beyond the traditional Intention-to-Treat (ITT) perspective to account for varied usage (compliance) in home-based settings.\n\n\n\nCACE-Modeling: Estimating the “Complier Average Causal Effect” to isolate the effect of actual intervention dosage.\n\n\nRobustness Checks: Handling missing data via Full Information Maximum Likelihood (FIML) and conducting MNAR Tipping-Point Analyses to test the sensitivity of results against non-random attrition.\n\n\n\nKey Insight: While ITT effects were delayed, CACE estimates revealed stronger potential effects for high-compliance users, while simultaneously highlighting the risks of causal interpretation when design assumptions are challenged.\n\n\n\n\nExperimental Study — Epistemic Emotions & Information-Seeking\n\n\nProject: An online experiment on the impact of linguistic framing in refutation texts.\n\n\nResearch Goal: Examining whether subtle emotional framing (confusion vs. interest) influences how learners engage with scientific misinformation and exploratory “click-behavior”.\n\n\n\nDesign: Between-subjects experiment (N=134) with behavioral proxies for information-seeking.\n\n\nAnalysis: Regression models and robustness checks for emotion induction.\n\n\nReflection: A methodological critique of “click-based” behavioral measures and the limits of retrospective emotion reporting.\n\n\n\n\n\nBachelor’s Thesis — Mechanisms of Well-being\n\n\nTitle: Verwobene Wege zum Wohlbefinden: Achtsamkeit, Dezentrierung und emotionale Kompetenz.\n\n\nResearch Goal: Identifying the “how” and “why” behind the benefits of mindfulness by testing a mediation model.\n\n\n\nMethods: Path analysis and mediation modeling (SPSS AMOS & PROCESS).\n\n\nInsight: This project laid the foundation for my interest in protective factors, while highlighting the need for the advanced causal and longitudinal methods I now apply in my Master’s work."
+  },
+  {
+    "objectID": "Projects.html#technical-open-science-commitment",
+    "href": "Projects.html#technical-open-science-commitment",
+    "title": "Research Projects",
+    "section": "Technical & Open Science Commitment",
+    "text": "Technical & Open Science Commitment\nAll projects are conducted with a strong commitment to Open Science principles: * Reproducibility: Analysis scripts are written in R, utilizing Quarto for fully transparent and automated reporting. * Rigorous Modeling: Preference for latent variable models (SEM) to account for measurement error. * Causal Thinking: Explicit reflection on the assumptions (e.g., Exclusion Restriction in CACE) necessary for causal claims in educational research."
+  }
+]

@@ -1,0 +1,117 @@
+---
+title: "Research Projects"
+---
+
+## Current Research
+
+<details open>
+
+<summary><strong>Master’s Thesis — The Nature of Socio-Emotional Competencies (Ongoing)</strong></summary>
+
+<p><strong>Title:</strong> Zur Natur sozioemotionaler Kompetenzen: Eine Konstruktvalidierung der Trennbarkeit von Skills und Traits über Struktur, Stabilität und Messartefakte.</p>
+
+<p><strong>Core Question:</strong> Do socio-emotional skills represent a distinct, malleable construct ("I can"), or are they merely a "re-labeling" of stable personality traits ("I am")?</p>
+
+<p><strong>Approach:</strong> Using a construct-validation approach, I investigate the empirical distinctness of skills (measured via BESSI-G) and traits (Big Five). The project addresses the "trait-re-labeling" debate by analyzing structural overlap and differential stability.</p>
+
+<p><strong>Methodological Highlights:</strong></p>
+
+<ul>
+
+<li>**Exploratory Structural Equation Modeling (ESEM):** To account for the complex factor structure of social-behavioral skills.</li>
+
+<li>**Longitudinal Modeling:** Assessing rank-order stability over a school year using latent autoregressive models (TOSCA-NEO sample).</li>
+
+<li>**Measurement Invariance:** Testing the stability of the measurement model across time.</li>
+
+<li>**Tools:** R (lavaan), Mplus, Quarto for reproducible reporting, FIML for attrition handling.</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary><strong>Research Project — Metacognitive Indicators in Mathematics Classrooms</strong></summary>
+
+<p><strong>Topic:</strong> Predicting high-inference teaching quality ratings through linguistic indicators of metacognition.</p>
+
+<p><strong>Content:</strong> Using a metacognitive framework for mathematical learning (e.g., Zepeda), we investigated how specific linguistic markers in classroom transcripts relate to expert observer ratings of teaching quality. The project explores whether automated linguistic analysis can reflect the "invisible" metacognitive modeling provided by teachers.</p>
+
+<p><strong>Key Contribution:</strong> Bridging the gap between theory-driven metacognitive frameworks and applied classroom diagnostics. It highlights the potential of linguistic cues as objective proxies for complex instructional processes in mathematics.</p>
+
+<p>
+
+<strong>Methods:</strong>
+
+<ul>
+
+<li>Mapping linguistic indicators to dimensions of teaching quality.</li>
+
+<li>Predictive modeling of observer ratings based on transcript data.</li>
+
+<li>Reflection on domain-specific (math) vs. domain-general metacognitive cues.</li>
+
+</ul>
+
+</details>
+
+## Completed Projects
+
+<details>
+
+<summary><strong>Causal Evaluation — ITT & CACE Effects in Digital Interventions</strong></summary>
+
+<p><strong>Project:</strong> Secondary analysis of a Randomized Controlled Trial (RCT) evaluating the digital empathy-training "Zirkus Empathico".</p>
+
+<p><strong>Focus:</strong> Moving beyond the traditional Intention-to-Treat (ITT) perspective to account for varied usage (compliance) in home-based settings.</p>
+
+<ul>
+
+<li><strong>CACE-Modeling:</strong> Estimating the "Complier Average Causal Effect" to isolate the effect of actual intervention dosage.</li>
+
+<li><strong>Robustness Checks:</strong> Handling missing data via Full Information Maximum Likelihood (FIML) and conducting **MNAR Tipping-Point Analyses** to test the sensitivity of results against non-random attrition.</li>
+
+</ul>
+
+<p><strong>Key Insight:</strong> While ITT effects were delayed, CACE estimates revealed stronger potential effects for high-compliance users, while simultaneously highlighting the risks of causal interpretation when design assumptions are challenged.</p>
+
+</details>
+
+<details>
+
+<summary><strong>Experimental Study — Epistemic Emotions & Information-Seeking</strong></summary>
+
+<p><strong>Project:</strong> An online experiment on the impact of linguistic framing in refutation texts.</p>
+
+<p><strong>Research Goal:</strong> Examining whether subtle emotional framing (confusion vs. interest) influences how learners engage with scientific misinformation and exploratory "click-behavior".</p>
+
+<ul>
+
+<li>**Design:** Between-subjects experiment (N=134) with behavioral proxies for information-seeking.</li>
+
+<li>**Analysis:** Regression models and robustness checks for emotion induction.</li>
+
+<li>**Reflection:** A methodological critique of "click-based" behavioral measures and the limits of retrospective emotion reporting.</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary><strong>Bachelor’s Thesis — Mechanisms of Well-being</strong></summary>
+
+<p><strong>Title:</strong> Verwobene Wege zum Wohlbefinden: Achtsamkeit, Dezentrierung und emotionale Kompetenz.</p>
+
+<p><strong>Research Goal:</strong> Identifying the "how" and "why" behind the benefits of mindfulness by testing a mediation model.</p>
+
+<ul>
+
+<li>**Methods:** Path analysis and mediation modeling (SPSS AMOS & PROCESS).</li>
+
+<li>**Insight:** This project laid the foundation for my interest in **protective factors**, while highlighting the need for the advanced causal and longitudinal methods I now apply in my Master’s work.</li>
+
+</ul>
+
+</details>
